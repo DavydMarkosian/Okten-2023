@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+.white-text{
+    color: white;
+}
+header{
+    width: 100vw;
+    height: 25vh;
+    background-color: #c0c0c0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    width: 100vw;
+    height: 35vh;
+    background-color: #918f8f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrap-sa{
+    display: flex;
+}
+section{
+    width: 60vw;
+    height: 30vh;
+    background-color: #7c7777;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+article{
+    width: 40vw;
+    height: 30vh;
+    background-color: #565555;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    width: 100vw;
+    height: 10vh;
+    background-color: #bfbfbf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

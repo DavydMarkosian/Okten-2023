@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+p{
+    max-width: 80%;
+    text-align: center;
+}
+.s1{
+    background-color: #fdc0ca;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.s2{
+    background-color: #272727;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text-s2{
+    color: white;
+}
+
+
+
+
+
+
+
