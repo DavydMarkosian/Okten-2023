@@ -12,6 +12,12 @@ body {
     width: 321px;
     border: 4px #554C4C solid;
     background-color: rgba(217, 217, 217, 0.3);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .cirсle {
@@ -23,28 +29,16 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    position: relative;
-    left: 100px;
-    bottom: 58px;
+    position: absolute;
+    top: -58px;
 }
-
-.text {
+.text{
     width: 80%;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding-top: 84px;
-    padding-left: 33px;
-
-
 }
 
 p {
     font-size: 20px;
     margin: 0;
-
 }
 
 .h {
