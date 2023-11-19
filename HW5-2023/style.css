@@ -6,25 +6,31 @@ body {
     height: 100vh;
     font-family: Inter;
 }
+.borders13{
+    border: 4px #554C4C solid;
+}
+.border2{
+    border: 4px #65856E solid;
+}
 
 .block {
     height: 491px;
     width: 321px;
-    border: 4px #554C4C solid;
-    background-color: rgba(217, 217, 217, 0.3);
+    /*border: 4px #554C4C solid;*/
+    /*background-color: rgba(217, 217, 217, 0.3);*/
     position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: center;
+    background-color: rgba(217, 217, 217, 0.3);
 }
 
 .cirсle {
     height: 100px;
     width: 100px;
     background-color: white;
-    border: 4px #554C4C solid;
     border-radius: 50%;
     display: flex;
     justify-content: center;
